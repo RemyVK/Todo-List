@@ -1,0 +1,16 @@
+.my-goals {
+    margin-top: 60px;
+}
+
+.display {
+    background-color: darkred;  
+    color: white;
+    padding: 15px;
+    margin: 20px 0; 
+    border: 1px solid #e0e0e0;
+    font-size: 20px;
+    text-align: left;
+    width: 550px;
+    height: auto;
+    cursor: pointer;
+}
